@@ -1,5 +1,3 @@
-أكيد. هذا **README احترافي جاهز للنسخ واللصق مباشرة** في `README.md` الخاص بحسابك في GitHub. صممته ليعطي انطباع **Founder + Entrepreneur + Developer** بدل شكل قائمة تقنيات فقط.
-
 ```markdown
 <div align="center">
 
